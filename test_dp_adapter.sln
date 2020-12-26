@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test_dp_adapter", "test_dp_adapter\test_dp_adapter.csproj", "{2881D03E-626D-4AE3-AF61-7303982E8D8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2881D03E-626D-4AE3-AF61-7303982E8D8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2881D03E-626D-4AE3-AF61-7303982E8D8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2881D03E-626D-4AE3-AF61-7303982E8D8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2881D03E-626D-4AE3-AF61-7303982E8D8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0658CB8F-4F90-4263-B853-0B80E2FE8747}
+	EndGlobalSection
+EndGlobal
