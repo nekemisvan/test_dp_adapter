@@ -14,7 +14,7 @@ namespace test_dp_adapter
 
             foreach (IEmployee i in list) i.ShowHappiness();
 
-            Console.WriteLine("Hello World! 9 master");  
+            Console.WriteLine("Hello World! 10 master");  
             }
 
 
